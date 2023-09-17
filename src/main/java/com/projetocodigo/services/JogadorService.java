@@ -19,4 +19,8 @@ public class JogadorService {
   public void createPlayer(Jogador player) {
     this.jrepository.save(player);
   }
+
+  public void deleteAllPlayers() {
+    this.jrepository.deleteAll();
+  }
 }
