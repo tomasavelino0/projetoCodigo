@@ -11,5 +11,4 @@ public class ProjetoIbmApplication {
   public static void main(String[] args) {
     SpringApplication.run(ProjetoIbmApplication.class, args);
   }
-
 }
