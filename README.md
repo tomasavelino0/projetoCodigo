@@ -44,7 +44,7 @@
 ## Como testar voce mesmo
 
   #### Metodo Simples:
-   1 - Acesse: <a href="https://projeto-codigo-front.vercel.app/" target="_blank">Front Desenvolvido em React</a>  
+   1 - Acesse: <a href="https://projeto-codigo-front.vercel.app/" target="_blank">Front Desenvolvido em React</a> para ter uma interface visual nas suas requisicoes   
    2 - Com alguma ferramenta de fazer requisicoes, ex: insomnia, postman, thunderclient etc, faca requisicoes para os endpoints descritos acima,
   
 
